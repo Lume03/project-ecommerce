@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sub_categories",
+  "info": {
+    "singularName": "sub-category",
+    "pluralName": "sub-categories",
+    "displayName": "sub category",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "sub_category_name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "sub_category_name"
+    },
+    "categories": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::category.category",
+      "inversedBy": "sub_categories"
+    }
+  }
+}

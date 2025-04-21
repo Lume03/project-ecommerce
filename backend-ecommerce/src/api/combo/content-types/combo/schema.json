@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "combos",
+  "info": {
+    "singularName": "combo",
+    "pluralName": "combos",
+    "displayName": "Combo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "comboPc": {
+      "type": "string"
+    }
+  }
+}
