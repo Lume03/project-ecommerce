@@ -1,0 +1,28 @@
+{
+    "kind": "collectionType",
+    "collectionName": "categories",
+    "info": {
+        "singularName": "category",
+        "pluralName": "categories",
+        "displayName": "category",
+        "description": ""
+    },
+    "options": {
+        "draftAndPublish": true
+    },
+    "attributes": {
+        "category_name": {
+            "type": "string"
+        },
+        "slug": {
+            "type": "uid",
+            "targetField": "category_name"
+        },
+        "sub_categories": {
+            "type": "relation",
+            "relation": "manyToMany",
+            "target": "api::sub-category.sub-category",
+            "mappedBy": "categories"
+        }
+    }
+}
