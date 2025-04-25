@@ -43,15 +43,50 @@
       "type": "boolean",
       "default": true
     },
+    "subCategory": {
+      "type": "enumeration",
+      "enum": [
+        "Placa Madre",
+        "Procesador",
+        "Memoria Ram",
+        "Fuente de Poder",
+        "Refrigeracion",
+        "Tarjeta Grafica",
+        "Almacenamiento",
+        "Teclado",
+        "Monitor",
+        "Audifonos"
+      ]
+    },
+    "tipo": {
+      "type": "enumeration",
+      "enum": [
+        "Intel",
+        "AMD",
+        "Nvidia",
+        "Bronce",
+        "Silver",
+        "Gold",
+        "HDD",
+        "SSD",
+        "NVMe.2",
+        "OLED",
+        "IPS",
+        "VA",
+        "AIRE",
+        "LIQUIDA",
+        "MECANICO",
+        "MEMBRANA",
+        "ALAMBRICO",
+        "INALAMBRICO",
+        "DDR4",
+        "DDR5"
+      ]
+    },
     "category": {
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::category.category"
-    },
-    "sub_category": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::sub-category.sub-category"
     }
   }
 }

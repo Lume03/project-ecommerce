@@ -393,10 +393,6 @@ export interface ApiCategoryCategory extends Struct.CollectionTypeSchema {
       Schema.Attribute.Private;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'category_name'>;
-    sub_categories: Schema.Attribute.Relation<
-      'manyToMany',
-      'api::sub-category.sub-category'
-    >;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -461,44 +457,44 @@ export interface ApiProductProduct extends Struct.CollectionTypeSchema {
     productName: Schema.Attribute.String;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'productName'>;
-    sub_category: Schema.Attribute.Relation<
-      'oneToOne',
-      'api::sub-category.sub-category'
+    subCategory: Schema.Attribute.Enumeration<
+      [
+        'Placa Madre',
+        'Procesador',
+        'Memoria Ram',
+        'Fuente de Poder',
+        'Refrigeracion',
+        'Tarjeta Grafica',
+        'Almacenamiento',
+        'Teclado',
+        'Monitor',
+        'Audifonos',
+      ]
     >;
-    updatedAt: Schema.Attribute.DateTime;
-    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-  };
-}
-
-export interface ApiSubCategorySubCategory extends Struct.CollectionTypeSchema {
-  collectionName: 'sub_categories';
-  info: {
-    description: '';
-    displayName: 'sub category';
-    pluralName: 'sub-categories';
-    singularName: 'sub-category';
-  };
-  options: {
-    draftAndPublish: true;
-  };
-  attributes: {
-    categories: Schema.Attribute.Relation<
-      'manyToMany',
-      'api::category.category'
+    tipo: Schema.Attribute.Enumeration<
+      [
+        'Intel',
+        'AMD',
+        'Nvidia',
+        'Bronce',
+        'Silver',
+        'Gold',
+        'HDD',
+        'SSD',
+        'NVMe.2',
+        'OLED',
+        'IPS',
+        'VA',
+        'AIRE',
+        'LIQUIDA',
+        'MECANICO',
+        'MEMBRANA',
+        'ALAMBRICO',
+        'INALAMBRICO',
+        'DDR4',
+        'DDR5',
+      ]
     >;
-    createdAt: Schema.Attribute.DateTime;
-    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
-      Schema.Attribute.Private;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
-    localizations: Schema.Attribute.Relation<
-      'oneToMany',
-      'api::sub-category.sub-category'
-    > &
-      Schema.Attribute.Private;
-    publishedAt: Schema.Attribute.DateTime;
-    slug: Schema.Attribute.UID<'sub_category_name'>;
-    sub_category_name: Schema.Attribute.String;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -1017,7 +1013,6 @@ declare module '@strapi/strapi' {
       'api::category.category': ApiCategoryCategory;
       'api::combo.combo': ApiComboCombo;
       'api::product.product': ApiProductProduct;
-      'api::sub-category.sub-category': ApiSubCategorySubCategory;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
       'plugin::i18n.locale': PluginI18NLocale;
