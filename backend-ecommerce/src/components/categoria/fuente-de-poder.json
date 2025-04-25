@@ -1,0 +1,48 @@
+{
+  "collectionName": "components_categoria_fuente_de_poders",
+  "info": {
+    "displayName": "Fuente de Poder"
+  },
+  "options": {},
+  "attributes": {
+    "Marca": {
+      "type": "enumeration",
+      "enum": [
+        "Corsair",
+        "EVGA",
+        "Antec",
+        "GigaByte",
+        "Asus",
+        "XPG",
+        "Cooler Master"
+      ]
+    },
+    "Certificacion": {
+      "type": "enumeration",
+      "enum": [
+        "80 plus bronze",
+        "80 plus silver",
+        "80 plus gold",
+        "80 plus platinum"
+      ]
+    },
+    "tamano": {
+      "type": "enumeration",
+      "enum": [
+        "ATX",
+        "SFX",
+        "TFX"
+      ]
+    },
+    "Potencia": {
+      "type": "enumeration",
+      "enum": [
+        "500w",
+        "600w",
+        "750w",
+        "800w",
+        "1000w"
+      ]
+    }
+  }
+}

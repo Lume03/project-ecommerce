@@ -1,0 +1,46 @@
+{
+  "collectionName": "components_categoria_almacenamientos",
+  "info": {
+    "displayName": "Almacenamiento"
+  },
+  "options": {},
+  "attributes": {
+    "Tipo": {
+      "type": "enumeration",
+      "enum": [
+        "HDD",
+        "SSD",
+        "NVMe.2"
+      ]
+    },
+    "Marca": {
+      "type": "enumeration",
+      "enum": [
+        "Samsung",
+        "Western Digital",
+        "Crucial",
+        "Seagate"
+      ]
+    },
+    "Capacidad": {
+      "type": "enumeration",
+      "enum": [
+        "120gb",
+        "256gb",
+        "512gb",
+        "1tb",
+        "2tb"
+      ]
+    },
+    "Velocidad": {
+      "type": "enumeration",
+      "enum": [
+        "150MB/s",
+        "550MB/s",
+        "3500MB/s",
+        "6000MB/s",
+        "7000MB/s"
+      ]
+    }
+  }
+}

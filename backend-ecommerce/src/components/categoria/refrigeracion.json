@@ -1,0 +1,49 @@
+{
+  "collectionName": "components_categoria_refrigeracions",
+  "info": {
+    "displayName": "Refrigeracion"
+  },
+  "options": {},
+  "attributes": {
+    "Tipo": {
+      "type": "enumeration",
+      "enum": [
+        "Aire",
+        "Liquido"
+      ]
+    },
+    "Marca": {
+      "type": "enumeration",
+      "enum": [
+        "Noctua",
+        "Corsair",
+        "NZXT",
+        "Cooler Masater"
+      ]
+    },
+    "Tamano": {
+      "type": "enumeration",
+      "enum": [
+        "120mm",
+        "240mm",
+        "360mm"
+      ]
+    },
+    "Iluminacion": {
+      "type": "enumeration",
+      "enum": [
+        "RGB",
+        "ARGB"
+      ]
+    },
+    "Ruido": {
+      "type": "enumeration",
+      "enum": [
+        "15db",
+        "20db",
+        "25db",
+        "30db"
+      ]
+    }
+  }
+}

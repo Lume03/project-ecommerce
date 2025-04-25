@@ -17,6 +17,12 @@
         "slug": {
             "type": "uid",
             "targetField": "category_name"
+        },
+        "products": {
+            "type": "relation",
+            "relation": "oneToMany",
+            "target": "api::product.product",
+            "mappedBy": "category"
         }
     }
 }

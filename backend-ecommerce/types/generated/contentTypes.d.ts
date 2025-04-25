@@ -391,6 +391,7 @@ export interface ApiCategoryCategory extends Struct.CollectionTypeSchema {
       'api::category.category'
     > &
       Schema.Attribute.Private;
+    products: Schema.Attribute.Relation<'oneToMany', 'api::product.product'>;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'category_name'>;
     updatedAt: Schema.Attribute.DateTime;
@@ -437,7 +438,17 @@ export interface ApiProductProduct extends Struct.CollectionTypeSchema {
   };
   attributes: {
     active: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
-    category: Schema.Attribute.Relation<'oneToOne', 'api::category.category'>;
+    Categoria: Schema.Attribute.DynamicZone<
+      [
+        'categoria.procesador',
+        'categoria.placa-madre',
+        'categoria.tarjeta-grafica',
+        'categoria.refrigeracion',
+        'categoria.memoria-ram',
+        'categoria.almacenamiento',
+      ]
+    >;
+    category: Schema.Attribute.Relation<'manyToOne', 'api::category.category'>;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -457,44 +468,6 @@ export interface ApiProductProduct extends Struct.CollectionTypeSchema {
     productName: Schema.Attribute.String;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'productName'>;
-    subCategory: Schema.Attribute.Enumeration<
-      [
-        'Placa Madre',
-        'Procesador',
-        'Memoria Ram',
-        'Fuente de Poder',
-        'Refrigeracion',
-        'Tarjeta Grafica',
-        'Almacenamiento',
-        'Teclado',
-        'Monitor',
-        'Audifonos',
-      ]
-    >;
-    tipo: Schema.Attribute.Enumeration<
-      [
-        'Intel',
-        'AMD',
-        'Nvidia',
-        'Bronce',
-        'Silver',
-        'Gold',
-        'HDD',
-        'SSD',
-        'NVMe.2',
-        'OLED',
-        'IPS',
-        'VA',
-        'AIRE',
-        'LIQUIDA',
-        'MECANICO',
-        'MEMBRANA',
-        'ALAMBRICO',
-        'INALAMBRICO',
-        'DDR4',
-        'DDR5',
-      ]
-    >;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;

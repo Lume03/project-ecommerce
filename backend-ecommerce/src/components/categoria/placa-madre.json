@@ -1,0 +1,52 @@
+{
+  "collectionName": "components_categoria_placa_madres",
+  "info": {
+    "displayName": "Placa Madre",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Tipo": {
+      "type": "enumeration",
+      "enum": [
+        "Intel",
+        "AMD"
+      ]
+    },
+    "Socket": {
+      "type": "enumeration",
+      "enum": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851",
+        "8gb"
+      ]
+    },
+    "ARGBcompatible": {
+      "type": "boolean"
+    },
+    "Marca": {
+      "type": "enumeration",
+      "enum": [
+        "Asus",
+        "GigaByte",
+        "AsRock",
+        "MSI"
+      ]
+    },
+    "Tipo_Ram": {
+      "type": "enumeration",
+      "enum": [
+        "DDR4",
+        "DDR5"
+      ]
+    },
+    "Wifi": {
+      "type": "boolean"
+    },
+    "Bluetooth": {
+      "type": "boolean"
+    }
+  }
+}

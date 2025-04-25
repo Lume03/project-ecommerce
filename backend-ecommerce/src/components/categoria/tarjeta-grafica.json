@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_categoria_tarjeta_graficas",
+  "info": {
+    "displayName": "Tarjeta Grafica"
+  },
+  "options": {},
+  "attributes": {
+    "Modelo": {
+      "type": "enumeration",
+      "enum": [
+        "Nvidia",
+        "AMD"
+      ]
+    },
+    "Marca": {
+      "type": "enumeration",
+      "enum": [
+        "ASUS",
+        "MSI",
+        "GigaByte"
+      ]
+    },
+    "VRAM": {
+      "type": "enumeration",
+      "enum": [
+        "8gb",
+        "12gb",
+        "16gb",
+        "24gb",
+        "32gb"
+      ]
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "collectionName": "components_categoria_procesadors",
+  "info": {
+    "displayName": "Procesador",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Marca": {
+      "type": "enumeration",
+      "enum": [
+        "Intel",
+        "AMD"
+      ]
+    },
+    "Socket": {
+      "type": "enumeration",
+      "enum": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ]
+    },
+    "GraficosIntegrados": {
+      "type": "boolean"
+    },
+    "Nucleos": {
+      "type": "enumeration",
+      "enum": [
+        "6",
+        "8",
+        "10",
+        "12",
+        "14",
+        "16",
+        "20",
+        "24"
+      ]
+    },
+    "Hilos": {
+      "type": "enumeration",
+      "enum": [
+        "12",
+        "16",
+        "20",
+        "24",
+        "28",
+        "32"
+      ]
+    },
+  }
+}
