@@ -43,22 +43,52 @@
             "type": "boolean",
             "default": true
         },
-        "Categoria": {
-            "type": "dynamiczone",
-            "components": [
-                "categoria.procesador",
-                "categoria.placa-madre",
-                "categoria.tarjeta-grafica",
-                "categoria.refrigeracion",
-                "categoria.memoria-ram",
-                "categoria.almacenamiento"
+        "subCategory": {
+            "type": "enumeration",
+            "enum": [
+                "Placa Madre",
+                "Procesador",
+                "Memoria Ram",
+                "Fuente de Poder",
+                "Refrigeracion",
+                "Tarjeta Grafica",
+                "Almacenamiento",
+                "Teclado",
+                "Monitor",
+                "Audifonos"
+            ]
+        },
+        "tipo": {
+            "type": "enumeration",
+            "enum": [
+                "Intel",
+                "AMD",
+                "Nvidia",
+                "Bronce",
+                "Silver",
+                "Gold",
+                "Titanium",
+                "HDD",
+                "SSD",
+                "NVMe.2",
+                "OLED",
+                "IPS",
+                "VA",
+                "AIRE",
+                "LIQUIDA",
+                "MECANICO",
+                "MEMBRANA",
+                "ALAMBRICO",
+                "INALAMBRICO",
+                "DDR4",
+                "DDR5"
             ]
         },
         "category": {
             "type": "relation",
             "relation": "manyToOne",
             "target": "api::category.category",
-            "inversedBy": "products"
+            "inversedBy": "product"
         }
     }
 }

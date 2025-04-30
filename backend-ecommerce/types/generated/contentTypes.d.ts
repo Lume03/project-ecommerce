@@ -381,19 +381,21 @@ export interface ApiCategoryCategory extends Struct.CollectionTypeSchema {
     draftAndPublish: true;
   };
   attributes: {
-    category_name: Schema.Attribute.String;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    description: Schema.Attribute.String;
+    image: Schema.Attribute.Media<'files' | 'images'>;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
       'api::category.category'
     > &
       Schema.Attribute.Private;
+    name: Schema.Attribute.String;
+    product: Schema.Attribute.Relation<'oneToMany', 'api::product.product'>;
     products: Schema.Attribute.Relation<'oneToMany', 'api::product.product'>;
     publishedAt: Schema.Attribute.DateTime;
-    slug: Schema.Attribute.UID<'category_name'>;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -425,6 +427,33 @@ export interface ApiComboCombo extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiMarcaMarca extends Struct.CollectionTypeSchema {
+  collectionName: 'marcas';
+  info: {
+    displayName: 'marca';
+    pluralName: 'marcas';
+    singularName: 'marca';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::marca.marca'> &
+      Schema.Attribute.Private;
+    logo: Schema.Attribute.Media<'images' | 'files'>;
+    name: Schema.Attribute.String;
+    products: Schema.Attribute.Relation<'oneToMany', 'api::product.product'>;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiProductProduct extends Struct.CollectionTypeSchema {
   collectionName: 'products';
   info: {
@@ -438,16 +467,6 @@ export interface ApiProductProduct extends Struct.CollectionTypeSchema {
   };
   attributes: {
     active: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
-    Categoria: Schema.Attribute.DynamicZone<
-      [
-        'categoria.procesador',
-        'categoria.placa-madre',
-        'categoria.tarjeta-grafica',
-        'categoria.refrigeracion',
-        'categoria.memoria-ram',
-        'categoria.almacenamiento',
-      ]
-    >;
     category: Schema.Attribute.Relation<'manyToOne', 'api::category.category'>;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
@@ -468,6 +487,45 @@ export interface ApiProductProduct extends Struct.CollectionTypeSchema {
     productName: Schema.Attribute.String;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'productName'>;
+    subCategory: Schema.Attribute.Enumeration<
+      [
+        'Placa Madre',
+        'Procesador',
+        'Memoria Ram',
+        'Fuente de Poder',
+        'Refrigeracion',
+        'Tarjeta Grafica',
+        'Almacenamiento',
+        'Teclado',
+        'Monitor',
+        'Audifonos',
+      ]
+    >;
+    tipo: Schema.Attribute.Enumeration<
+      [
+        'Intel',
+        'AMD',
+        'Nvidia',
+        'Bronce',
+        'Silver',
+        'Gold',
+        'Titanium',
+        'HDD',
+        'SSD',
+        'NVMe.2',
+        'OLED',
+        'IPS',
+        'VA',
+        'AIRE',
+        'LIQUIDA',
+        'MECANICO',
+        'MEMBRANA',
+        'ALAMBRICO',
+        'INALAMBRICO',
+        'DDR4',
+        'DDR5',
+      ]
+    >;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -985,6 +1043,7 @@ declare module '@strapi/strapi' {
       'admin::user': AdminUser;
       'api::category.category': ApiCategoryCategory;
       'api::combo.combo': ApiComboCombo;
+      'api::marca.marca': ApiMarcaMarca;
       'api::product.product': ApiProductProduct;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
