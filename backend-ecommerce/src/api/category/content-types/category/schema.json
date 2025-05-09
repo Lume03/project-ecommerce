@@ -14,29 +14,15 @@
     "name": {
       "type": "string"
     },
-    "description": {
-      "type": "string"
-    },
-    "image": {
-      "allowedTypes": [
-        "files",
-        "images"
-      ],
-      "type": "media",
-      "multiple": false,
-      "required": false
-    },
-    "products": {
-      "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::product.product",
-      "mappedBy": "category"
-    },
     "product": {
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::product.product",
       "mappedBy": "category"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name"
     }
   }
 }
