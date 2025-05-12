@@ -5,784 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5dbd66f-37e6-4094-8401-5545d10750b4" name="Changes" comment="cambio de icono">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_04_2025_20_57_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_04_2025_20_57__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_04_2025_17_32_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_04_2025_17_32__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/.env" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/.strapi-updater.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/.strapi-updater.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/.strapi/client/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/.strapi/client/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/.strapi/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/.strapi/client/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/config/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/config/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/config/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/config/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/config/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/config/database.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/config/middlewares.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/config/middlewares.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/config/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/config/plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/config/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/config/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/category/content-types/category/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/category/content-types/category/schema.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/category/controllers/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/category/controllers/category.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/category/routes/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/category/routes/category.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/category/services/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/category/services/category.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/combo/content-types/combo/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/combo/content-types/combo/schema.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/combo/controllers/combo.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/combo/controllers/combo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/combo/routes/combo.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/combo/routes/combo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/combo/services/combo.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/combo/services/combo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/product/content-types/product/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/product/content-types/product/schema.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/product/controllers/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/product/controllers/product.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/product/routes/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/product/routes/product.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/product/services/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/api/product/services/product.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/dist/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/dist/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_plugin-cloud_strapi-admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_plugin-cloud_strapi-admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_plugin-cloud_strapi-admin.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_plugin-cloud_strapi-admin.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_plugin-users-permissions_strapi-admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_plugin-users-permissions_strapi-admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_plugin-users-permissions_strapi-admin.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_plugin-users-permissions_strapi-admin.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_strapi_admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_strapi_admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/AdminSeatInfo-ZUHJ74AI.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/AdminSeatInfo-ZUHJ74AI.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/AdvancedSettings-6SQV2C73.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/AdvancedSettings-6SQV2C73.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/App-6CW77VKS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/App-6CW77VKS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/App-KMKSFJND.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/App-KMKSFJND.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/App-P5CEVQIE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/App-P5CEVQIE.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/App-VIROFJRC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/App-VIROFJRC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ApplicationInfoPage-H5BXWA3Q.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ApplicationInfoPage-H5BXWA3Q.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/AuthResponse-JPE5IVTY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/AuthResponse-JPE5IVTY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/AuthenticatedLayout-S2PHSZON.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/AuthenticatedLayout-S2PHSZON.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ComponentConfigurationPage-MILDN47W.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ComponentConfigurationPage-MILDN47W.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ConfigureTheView-KBPIQR2H.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ConfigureTheView-KBPIQR2H.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/CreateActionEE-2S3VORP6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/CreateActionEE-2S3VORP6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/CreatePage-45VG6ARL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/CreatePage-45VG6ARL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/CreatePage-5RNS2VPR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/CreatePage-5RNS2VPR.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/CreateView-SJBL2YBM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/CreateView-SJBL2YBM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/CreateView-VTLM73HQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/CreateView-VTLM73HQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditConfigurationPage-2Y6LOSMI.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditConfigurationPage-2Y6LOSMI.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditPage-3FEEAYX3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditPage-3FEEAYX3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditPage-RVBSUCDL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditPage-RVBSUCDL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditPage-XQUGTYEP.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditPage-XQUGTYEP.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditView-E3376LS6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditView-E3376LS6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditViewPage-DTECJEQS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditViewPage-DTECJEQS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditViewPage-IW2OFLO6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EditViewPage-IW2OFLO6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EmailTemplates-VCEZ3DHK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EmailTemplates-VCEZ3DHK.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EventsTable-PTQW6MDT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/EventsTable-PTQW6MDT.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/History-SK5W6NHX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/History-SK5W6NHX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/HomePage-KMAATZC2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/HomePage-KMAATZC2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/HomePage-QZXXULMR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/HomePage-QZXXULMR.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/InstalledPlugins-NOAN2WUZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/InstalledPlugins-NOAN2WUZ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Layout-LO2I24ON.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Layout-LO2I24ON.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListConfigurationPage-DBAAQPU5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListConfigurationPage-DBAAQPU5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListPage-2C7W47HY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListPage-2C7W47HY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListPage-7VSHSKIA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListPage-7VSHSKIA.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListPage-ESBY4Y4R.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListPage-ESBY4Y4R.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListPage-HEKOYMCB.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListPage-HEKOYMCB.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListPage-VNL4E67W.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListPage-VNL4E67W.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListView-6EF4ZQTE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListView-6EF4ZQTE.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListView-KOLRBCU3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListView-KOLRBCU3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListView-PXZV3R2X.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListView-PXZV3R2X.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListViewPage-62WPQH75.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ListViewPage-62WPQH75.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Login-MDQTHSVW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Login-MDQTHSVW.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/MagicLinkEE-UCAZC7GY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/MagicLinkEE-UCAZC7GY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/MarketplacePage-YCERDVI2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/MarketplacePage-YCERDVI2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/NoContentTypePage-U6X4GPHD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/NoContentTypePage-U6X4GPHD.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/NoPermissionsPage-OCKH2I6M.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/NoPermissionsPage-OCKH2I6M.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Preview-DSOVWKO2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Preview-DSOVWKO2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ProfilePage-TCI2TWSS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ProfilePage-TCI2TWSS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Providers-BOXWS543.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Providers-BOXWS543.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/PurchaseAuditLogs-5FK3LA6J.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/PurchaseAuditLogs-5FK3LA6J.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/PurchaseContentHistory-BYOR4IFM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/PurchaseContentHistory-BYOR4IFM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/PurchaseContentReleases-QMVMBOIX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/PurchaseContentReleases-QMVMBOIX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/PurchaseSingleSignOn-DJXI6MGL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/PurchaseSingleSignOn-DJXI6MGL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ReleasesSettingsPage-RHFZDEV5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ReleasesSettingsPage-RHFZDEV5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Roles-HIDD2GJ6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Roles-HIDD2GJ6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Settings-2AKVN5MS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Settings-2AKVN5MS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/SettingsPage-46QB7AHT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/SettingsPage-46QB7AHT.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/SettingsPage-6WY3EXH4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/SettingsPage-6WY3EXH4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/SingleSignOnPage-RB3QRGNW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/SingleSignOnPage-RB3QRGNW.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/UseCasePage-3VGRQ7JP.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/UseCasePage-3VGRQ7JP.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Widgets-EL2NSEM5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/Widgets-EL2NSEM5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_strapi_admin.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/@strapi_strapi_admin.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ModalForm-5HYECZO6.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ModalForm-5HYECZO6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ModalForm-5HYECZO6.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ModalForm-5HYECZO6.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ar.json-2D5GLVFX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ar.json-2D5GLVFX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ar.json-3PFZZ3QC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ar.json-3PFZZ3QC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ar.json-DHRGSQ4D.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ar.json-DHRGSQ4D.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ar.json-UPUG6CGD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ar.json-UPUG6CGD.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ar.json-XT2AE5MD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ar.json-XT2AE5MD.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ca.json-PAONS36N.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ca.json-PAONS36N.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ca.json-RG7VH7B2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ca.json-RG7VH7B2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ca.json-SGLYOKFN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ca.json-SGLYOKFN.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2AJ726FL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2AJ726FL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2EOSCEFM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2EOSCEFM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2FX6IFKN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2FX6IFKN.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2IH7KEHF.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2IH7KEHF.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2KDCTPFV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2KDCTPFV.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2MOBGLWJ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2MOBGLWJ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2PWMSVH4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-2PWMSVH4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4I23IITS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4I23IITS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4NYNLG5S.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4NYNLG5S.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4SUSVXPJ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4SUSVXPJ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4VQFRUVF.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4VQFRUVF.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4Z4AMQLQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4Z4AMQLQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-5VLHABZ2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-5VLHABZ2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-5ZC4PE57.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-5ZC4PE57.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-64ZCGZFL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-64ZCGZFL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-6BTI2GMA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-6BTI2GMA.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-6E7AKM4G.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-6E7AKM4G.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-6EUTJK7T.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-6EUTJK7T.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-6LY4MOO2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-6LY4MOO2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-7FJPFK3Y.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-7FJPFK3Y.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-7KR23KFC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-7KR23KFC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-AF2Z2UHO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-AF2Z2UHO.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-AOLNGJZC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-AOLNGJZC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ATLU25YU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ATLU25YU.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-B7MG6QNL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-B7MG6QNL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BAUJQ2YQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BAUJQ2YQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BEVY3CWE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BEVY3CWE.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BHLYCXQ7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BHLYCXQ7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BLJUR3JO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BLJUR3JO.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BPUKTTOV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BPUKTTOV.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BUUEYC7W.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BUUEYC7W.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BZS5U46N.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-BZS5U46N.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-CE4VABH2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-CE4VABH2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-CWKH3MUH.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-CWKH3MUH.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-CXGXVWGB.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-CXGXVWGB.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-D4WYVNVM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-D4WYVNVM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-DJJSG3NG.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-DJJSG3NG.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-DYGYKERR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-DYGYKERR.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-E22QKRBJ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-E22QKRBJ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-EESNNFK3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-EESNNFK3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-EFVTREWX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-EFVTREWX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-EGNP2T5O.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-EGNP2T5O.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-FK4FJ3PN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-FK4FJ3PN.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-FOD4ENRR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-FOD4ENRR.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-FQDBB34C.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-FQDBB34C.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-FRJ76TKI.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-FRJ76TKI.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-G4OORBBC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-G4OORBBC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-GGK2TLCV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-GGK2TLCV.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-HC5MQLML.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-HC5MQLML.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-HHRHGX6H.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-HHRHGX6H.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-IFH6L7UK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-IFH6L7UK.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-IZYSKEB3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-IZYSKEB3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-JDBA4SNC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-JDBA4SNC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-JEUJEI5X.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-JEUJEI5X.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-JYBCZTEY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-JYBCZTEY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-JZLFE3F5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-JZLFE3F5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-K2XH53HR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-K2XH53HR.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-K43KTO4F.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-K43KTO4F.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-K65KIEAL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-K65KIEAL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-KVUE2YCU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-KVUE2YCU.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-LJ7VF6AT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-LJ7VF6AT.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-LVGJTESS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-LVGJTESS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-LWJCEK7H.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-LWJCEK7H.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-M22ERO6H.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-M22ERO6H.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-M5DBKNXN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-M5DBKNXN.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-MADUDGYZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-MADUDGYZ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-MBFHFFCZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-MBFHFFCZ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-MBK4V2X7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-MBK4V2X7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-MMOBCIZG.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-MMOBCIZG.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-MVAKCGOQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-MVAKCGOQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-N4O2KFYD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-N4O2KFYD.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-N6FT43XM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-N6FT43XM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-NE3KAGU6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-NE3KAGU6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-NIAJZ5MX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-NIAJZ5MX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-NL6OVIB3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-NL6OVIB3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-NWEONV6V.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-NWEONV6V.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-O3GANRXO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-O3GANRXO.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-OFPTM6IS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-OFPTM6IS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-OPTHTUL5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-OPTHTUL5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-OV6L5PUS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-OV6L5PUS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PMUZB5TC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PMUZB5TC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PZOMJQ3T.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PZOMJQ3T.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-QXF2FKMZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-QXF2FKMZ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-RETCBKPU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-RETCBKPU.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-RFPKQBCA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-RFPKQBCA.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-RJOKNRTS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-RJOKNRTS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ROPYRI2O.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ROPYRI2O.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SHWXAINT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SHWXAINT.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SPVJPYAQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SPVJPYAQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SR2RFXI3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SR2RFXI3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-T2YF43GM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-T2YF43GM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TE4GK4T4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TE4GK4T4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TJKFS7R4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TJKFS7R4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TO7PBCZL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TO7PBCZL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TPF2SGOZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TPF2SGOZ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TSD332E7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TSD332E7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TUXTO2Z5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-TUXTO2Z5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-UH4QNJ4X.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-UH4QNJ4X.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-UJL2TBQB.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-UJL2TBQB.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-UNWFRX7O.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-UNWFRX7O.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-UW5DRQZH.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-UW5DRQZH.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-VLXGCOLB.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-VLXGCOLB.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-VM2CV27X.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-VM2CV27X.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-VYSYYPOB.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-VYSYYPOB.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-WAJBRAZM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-WAJBRAZM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-WB4VQ44B.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-WB4VQ44B.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-WINIRJ5U.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-WINIRJ5U.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-WJHEGEPQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-WJHEGEPQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-WZGPDN27.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-WZGPDN27.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-XNACAI67.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-XNACAI67.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-XWROBXCD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-XWROBXCD.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YHFSUJFC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YHFSUJFC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YJEURQPS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YJEURQPS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YMRKSM2M.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YMRKSM2M.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YOB5FHHP.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YOB5FHHP.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YPV2G5C3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YPV2G5C3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YUG6JKKA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YUG6JKKA.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YXDCVYVT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YXDCVYVT.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YZIBEWXK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-YZIBEWXK.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-Z4DPJN53.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-Z4DPJN53.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ZHNVQGJ7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ZHNVQGJ7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ZNA3TV4T.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ZNA3TV4T.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ZWUB4SW6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ZWUB4SW6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ZYDILIPQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-ZYDILIPQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/constants-NBENKSE3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/constants-NBENKSE3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/constants-X2K6J5H7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/constants-X2K6J5H7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/cs.json-5JA7XHIC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/cs.json-5JA7XHIC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/cs.json-65YXLX2Y.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/cs.json-65YXLX2Y.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/cs.json-6UZPSKI6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/cs.json-6UZPSKI6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/cs.json-BVIOKZG5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/cs.json-BVIOKZG5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/cs.json-NLYIZIFN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/cs.json-NLYIZIFN.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-2J65DPG4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-2J65DPG4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-7VRMCTYR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-7VRMCTYR.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-ANFC3UZR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-ANFC3UZR.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-CI446XJE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-CI446XJE.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-WJF7NUDK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-WJF7NUDK.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-YTOGLXJI.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-YTOGLXJI.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-ZBRIRFBP.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/de.json-ZBRIRFBP.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-5FREZID7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-5FREZID7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-6IAHVXGK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-6IAHVXGK.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-72I6MEAZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-72I6MEAZ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-R3KK6HRU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-R3KK6HRU.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-V2MWWTY7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-V2MWWTY7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-XKI7CLW6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/dk.json-XKI7CLW6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en-GB-OOVGOATV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en-GB-OOVGOATV.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-5ZS55JRN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-5ZS55JRN.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-7E4TPUWN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-7E4TPUWN.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-ACWIBMGZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-ACWIBMGZ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-DTTYC5HN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-DTTYC5HN.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-LOEYTETI.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-LOEYTETI.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-M6YDYHQC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-M6YDYHQC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-MD5H2ZNO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-MD5H2ZNO.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-PWWUQZ3K.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-PWWUQZ3K.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-VIIMNTDC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-VIIMNTDC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-WJEGISUJ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/en.json-WJEGISUJ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-HNSRZYML.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-HNSRZYML.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-KFUNLRKE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-KFUNLRKE.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-MGPVJKPS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-MGPVJKPS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-NYTG6PJT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-NYTG6PJT.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-QL6WYFRN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-QL6WYFRN.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-W3AZZ4NL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-W3AZZ4NL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-WU2KAU5P.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/es.json-WU2KAU5P.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/eu.json-4UBKVO4U.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/eu.json-4UBKVO4U.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/eu.json-MJ7CSZWF.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/eu.json-MJ7CSZWF.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-5MRAYCZS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-5MRAYCZS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-EAETZVFF.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-EAETZVFF.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-FH7EDBW7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-FH7EDBW7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-FMGLNYTU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-FMGLNYTU.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-HZUEJNY3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-HZUEJNY3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-KOZ5KIZ5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-KOZ5KIZ5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-NP6DDXJO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-NP6DDXJO.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-RMMJOKKM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/fr.json-RMMJOKKM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/gu.json-BXQ4OG57.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/gu.json-BXQ4OG57.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/gu.json-NKEBDNO3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/gu.json-NKEBDNO3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/he.json-G7H73RQW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/he.json-G7H73RQW.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/he.json-VZB4I3FT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/he.json-VZB4I3FT.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/hi.json-NTCR56CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/hi.json-NTCR56CN.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/hi.json-ZHO262JE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/hi.json-ZHO262JE.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/hu.json-RVDXUVF6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/hu.json-RVDXUVF6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/hu.json-YWLXOZVP.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/hu.json-YWLXOZVP.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id-EHWX4TEY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id-EHWX4TEY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id.json-3OG5LH4D.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id.json-3OG5LH4D.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id.json-44M764KQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id.json-44M764KQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id.json-ENNNDR33.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id.json-ENNNDR33.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id.json-FHZVCNDO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id.json-FHZVCNDO.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id.json-GVRRKDG7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/id.json-GVRRKDG7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-AXAYYBTP.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-AXAYYBTP.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-B3SKNTFX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-B3SKNTFX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-DH2UR2AM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-DH2UR2AM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-VSEWBEC2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-VSEWBEC2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-ZDRZ7F5X.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-ZDRZ7F5X.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-ZO5NPYVA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/it.json-ZO5NPYVA.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-A5FGOGTR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-A5FGOGTR.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-DWADQSVY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-DWADQSVY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-EZKJRE4T.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-EZKJRE4T.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-JE5YGLSQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-JE5YGLSQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-KTP7KMFA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-KTP7KMFA.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-SZSQAQJE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ja.json-SZSQAQJE.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-4YCPKIVD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-4YCPKIVD.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-7LNB7CNC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-7LNB7CNC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-7T2BNQD5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-7T2BNQD5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-DQW6EKF7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-DQW6EKF7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-IY4N3EIS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-IY4N3EIS.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-P4IOXW24.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-P4IOXW24.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-TUNMS3U3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ko.json-TUNMS3U3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/layout-EEHI6PBZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/layout-EEHI6PBZ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ml.json-A4QAJBBK.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ml.json-A4QAJBBK.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ml.json-RR5JNGFY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ml.json-RR5JNGFY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-3Z4426VX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-3Z4426VX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-4TMLK7KR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-4TMLK7KR.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-6QRBGJWX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-6QRBGJWX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-JFNQVPJW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-JFNQVPJW.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-OYRQIG7I.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-OYRQIG7I.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-XXLISYOZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ms.json-XXLISYOZ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/nl.json-ANJ5OGO3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/nl.json-ANJ5OGO3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/nl.json-NC3ALAM6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/nl.json-NC3ALAM6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/nl.json-OPZTYQ5F.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/nl.json-OPZTYQ5F.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/nl.json-XKUDPGEG.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/nl.json-XKUDPGEG.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/nl.json-ZXDL5NWV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/nl.json-ZXDL5NWV.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/no.json-AGXVR7HE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/no.json-AGXVR7HE.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-3WKCX5RC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-3WKCX5RC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-FYKDY6BQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-FYKDY6BQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-KIA6EPL4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-KIA6EPL4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-Q57J2CY5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-Q57J2CY5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-TR7CEJ7T.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-TR7CEJ7T.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-VIMQBH35.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-VIMQBH35.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-WI3YPLLQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pl.json-WI3YPLLQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-5P5IAFDJ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-5P5IAFDJ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-6GSTCGDQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-6GSTCGDQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-IHUN7DZM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-IHUN7DZM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-J7IOOBC4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-J7IOOBC4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-SVFSTQD3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-SVFSTQD3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-T4XKDE6W.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt-BR.json-T4XKDE6W.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-3PC4SO3V.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-3PC4SO3V.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-FWKE762M.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-FWKE762M.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-G3LQKS26.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-G3LQKS26.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-PH5OQ5QW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-PH5OQ5QW.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-TC5QVEJX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-TC5QVEJX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-WXQYIHXO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/pt.json-WXQYIHXO.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/purchase-review-workflows-DHJW5ISU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/purchase-review-workflows-DHJW5ISU.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4J3VOWQV.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4J3VOWQV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4J3VOWQV.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-4J3VOWQV.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-5VODLFKF.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-5VODLFKF.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-5VODLFKF.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-5VODLFKF.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-7GAX2FTH.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-7GAX2FTH.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-7GAX2FTH.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-7GAX2FTH.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-C7H2BX76.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-C7H2BX76.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-C7H2BX76.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-C7H2BX76.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-HIZVCZYI.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-HIZVCZYI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-HIZVCZYI.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-HIZVCZYI.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-IFOFBKTA.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-IFOFBKTA.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-IFOFBKTA.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-IFOFBKTA.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PDGPTUUZ.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PDGPTUUZ.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PDGPTUUZ.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PDGPTUUZ.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PLDDJCW6.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PLDDJCW6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PLDDJCW6.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PLDDJCW6.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PQINNV4N.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PQINNV4N.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PQINNV4N.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PQINNV4N.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PVNXTKO6.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PVNXTKO6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PVNXTKO6.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-PVNXTKO6.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-QIJGNK42.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-QIJGNK42.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-QIJGNK42.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-QIJGNK42.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-RH4C26B2.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-RH4C26B2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-RH4C26B2.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-RH4C26B2.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SQLDXQZE.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SQLDXQZE.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SQLDXQZE.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SQLDXQZE.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SYWYLB7I.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SYWYLB7I.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SYWYLB7I.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/chunk-SYWYLB7I.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react-dom_client.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react-dom_client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react-dom_client.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react-dom_client.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react-router-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react-router-dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react-router-dom.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react-router-dom.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react_jsx-dev-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react_jsx-dev-runtime.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react_jsx-dev-runtime.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react_jsx-dev-runtime.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react_jsx-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react_jsx-runtime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/router-XQYEFDBM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/router-XQYEFDBM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-4XS2XZ2U.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-4XS2XZ2U.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-626W5GSD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-626W5GSD.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-MT737RDE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-MT737RDE.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-NCS3E3HX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-NCS3E3HX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-R3U5MBSO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-R3U5MBSO.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-SUGFRNNG.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-SUGFRNNG.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-T6RCGPRT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/ru.json-T6RCGPRT.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sa.json-MVYRHFGX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sa.json-MVYRHFGX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sa.json-WMMCW77G.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sa.json-WMMCW77G.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/settings-6626RWPL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/settings-6626RWPL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-3JI2YCKF.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-3JI2YCKF.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-A33FQAC4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-A33FQAC4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-A3DYL6VF.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-A3DYL6VF.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-CIND4NQ3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-CIND4NQ3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-UUGJA5OA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-UUGJA5OA.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-VLLP2PX6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sk.json-VLLP2PX6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react_jsx-runtime.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/react_jsx-runtime.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/styled-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/styled-components.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sv.json-AZZOP2IX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sv.json-AZZOP2IX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sv.json-KVW33BBW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sv.json-KVW33BBW.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sv.json-L4IEWYSD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sv.json-L4IEWYSD.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sv.json-MUCEN67I.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/sv.json-MUCEN67I.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-FIKGWXOL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-FIKGWXOL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-FY5UDF3C.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-FY5UDF3C.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-TJSRYKTC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-TJSRYKTC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-VEBY3S5D.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-VEBY3S5D.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-Z6CZT4Y2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-Z6CZT4Y2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-Z7IVRZDL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/th.json-Z7IVRZDL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-DNP2QMP3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-DNP2QMP3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-EXQ2PQGQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-EXQ2PQGQ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-HDJKSAL6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-HDJKSAL6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-MLYUSLWC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-MLYUSLWC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-MVASP7IY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-MVASP7IY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-OVRXCZHU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-OVRXCZHU.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-S2TFSAXE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/tr.json-S2TFSAXE.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-AEVQXBJA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-AEVQXBJA.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-BTXCC2JR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-BTXCC2JR.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-CP6ZJYY2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-CP6ZJYY2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-GGZECXPB.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-GGZECXPB.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-JEGTVCJW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-JEGTVCJW.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-L5EGH2OL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-L5EGH2OL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-LKRSQDU7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-LKRSQDU7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-R5OQDKG4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-R5OQDKG4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-R7E67MQ6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-R7E67MQ6.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-WPUUSCPA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/uk.json-WPUUSCPA.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/vi.json-KMBMC32Z.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/vi.json-KMBMC32Z.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/vi.json-OW47P7JN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/vi.json-OW47P7JN.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/vi.json-PPZALNIY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/vi.json-PPZALNIY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/vi.json-QBCPBN6B.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/vi.json-QBCPBN6B.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-2QRDQ6QL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-2QRDQ6QL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-3FPROLFG.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-3FPROLFG.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-7GSLOS5T.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-7GSLOS5T.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-JB5YZZP7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-JB5YZZP7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-RPFR5R5S.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-RPFR5R5S.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-RVHRMTOJ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-RVHRMTOJ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-WPBNXHYL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh-Hans.json-WPBNXHYL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-32A62ZT5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-32A62ZT5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-3XQQEU55.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-3XQQEU55.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-4S7OU5HD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-4S7OU5HD.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-BZJDH453.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-BZJDH453.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-HBRR4C2Q.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-HBRR4C2Q.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-VJM56UGO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-VJM56UGO.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-Z5KZSIXC.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/zh.json-Z5KZSIXC.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/src/api/category/content-types/category/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/src/api/category/content-types/category/schema.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/src/api/product/content-types/product/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/src/api/product/content-types/product/schema.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-ecommerce/types/generated/components.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/types/generated/components.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/styled-components.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/node_modules/.strapi/vite/deps/styled-components.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-ecommerce/types/generated/contentTypes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend-ecommerce/types/generated/contentTypes.d.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -855,7 +136,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
       </set>
     </attachedChunks>
   </component>
@@ -883,6 +164,11 @@
       <workItem from="1745707197970" duration="5384000" />
       <workItem from="1745762701591" duration="596000" />
       <workItem from="1745781900904" duration="2789000" />
+      <workItem from="1745976366848" duration="318000" />
+      <workItem from="1746841272126" duration="118000" />
+      <workItem from="1746841444975" duration="4502000" />
+      <workItem from="1746970622438" duration="632000" />
+      <workItem from="1747045497870" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="cambio de icono">
       <option name="closed" value="true" />
