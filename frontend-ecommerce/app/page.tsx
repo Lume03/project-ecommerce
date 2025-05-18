@@ -1,12 +1,12 @@
 
-import CarouselTextBanner from "@/components/ui/carousel-text-banner";
-import FeaturedProduct from "@/components/ui/featured-product";
+import CarouselTextBanner from "@/components/carousel-text-banner";
+import FeaturedProducts from "@/components/featured-products";
 
 export default function Home() {
     return (
         <main>
         <CarouselTextBanner />
-        <FeaturedProduct />
+        <FeaturedProducts />
         </main>
     );
 }

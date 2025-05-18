@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import { Urbanist } from "next/font/google";
 import "./globals.css";
-import Navbar from "@/components/ui/navbar";
-import Footer from "@/components/ui/footer";
-import {ThemeProvider} from "@/components/ui/theme-provider";
+import Navbar from "@/components/navbar";
+import Footer from "@/components/footer";
+import {ThemeProvider} from "@/components/theme-provider";
 
 const urbanist = Urbanist({
   variable: "--font-geist-sans",

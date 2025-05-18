@@ -1,9 +1,9 @@
 'use client'
 import {Heart, ShoppingCart, User} from "lucide-react";
 import { useRouter } from "next/navigation";
-import MenuList from "@/components/ui/menu-list";
-import ItemsMenuMobile from "@/components/ui/items-menu-mobile";
-import ToggleTheme from "@/components/ui/toggle-theme";
+import MenuList from "@/components/menu-list";
+import ItemsMenuMobile from "@/components/items-menu-mobile";
+import ToggleTheme from "@/components/toggle-theme";
 
 const Navbar = () => {
     const router = useRouter();

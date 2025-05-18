@@ -1,26 +1,25 @@
-"use client";  // Esta línea es importante
-
-import { useEffect, useState } from "react";
+import { useEffect, useState } from "react"
 
 export function useGetFeaturedProducts() {
-    const url = `${process.env.NEXT_PUBLIC_BACKEND_URL}/api/products?filters[isFeatured][$eq]=true&populate=*`;
-    const [result, setResult] = useState(null);
-    const [loading, setLoading] = useState(true);
-    const [error, setError] = useState("");
+    const url = `${process.env.NEXT_PUBLIC_BACKEND_URL}/api/products?filters[isFeature][$eq]=true&populate=*`
+    const [result, setResult] = useState(null)
+    const [loading, setLoading] = useState(true)
+    const [error, setError] = useState("")
 
     useEffect(() => {
         (async () => {
             try {
                 const res = await fetch(url);
-                const json = await res.json();
-                setResult(json.data);
-                setLoading(false);
+                const json = await res.json()
+                setResult(json.data)
+                setLoading(false)
             } catch (error: any) {
-                setError(error);
-                setLoading(false);
+                setError(error)
+                setLoading(false)
             }
-        })();
-    }, [url]);
+        })()
+    }, [url])
 
-    return [loading, result, error];
+    return { loading, result, error }
+
 }
