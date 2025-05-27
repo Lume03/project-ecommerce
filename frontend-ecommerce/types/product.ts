@@ -1,14 +1,13 @@
-// Procesador
+// Tipos de Dynamic Zone
 export type CategoriaProcesador = {
     __component: "categoria.procesador";
     Marca: string;
     Socket: string;
-    GraficosIntegrados: boolean;
+    GraficosIntegrados: boolean | null;
     Nucleos: string;
     Hilos: string;
 };
 
-// Tarjeta Gráfica
 export type CategoriaTarjetaGrafica = {
     __component: "categoria.tarjeta-grafica";
     Modelo: string;
@@ -16,7 +15,6 @@ export type CategoriaTarjetaGrafica = {
     VRAM: string;
 };
 
-// Fuente de Poder
 export type CategoriaFuentedePoder = {
     __component: "categoria.fuente-de-poder";
     Marca: string;
@@ -25,7 +23,6 @@ export type CategoriaFuentedePoder = {
     Potencia: string;
 };
 
-// Memoria RAM
 export type CategoriaMemoriaRam = {
     __component: "categoria.memoria-ram";
     Marca: string;
@@ -35,7 +32,6 @@ export type CategoriaMemoriaRam = {
     Velocidad: string;
 };
 
-// Placa Madre
 export type CategoriaPlacaMadre = {
     __component: "categoria.placa-madre";
     Tipo: string;
@@ -47,7 +43,6 @@ export type CategoriaPlacaMadre = {
     Bluetooth: boolean;
 };
 
-// Almacenamiento
 export type CategoriaAlmacenamiento = {
     __component: "categoria.almacenamiento";
     Tipo: string;
@@ -56,7 +51,6 @@ export type CategoriaAlmacenamiento = {
     Velocidad: string;
 };
 
-// Refrigeración
 export type CategoriaRefrigeracion = {
     __component: "categoria.refrigeracion";
     Tipo: string;
@@ -66,7 +60,6 @@ export type CategoriaRefrigeracion = {
     Ruido: string;
 };
 
-// Definición de ProductSpecs como unión de todos los posibles tipos de componentes
 export type ProductSpecs =
     | CategoriaProcesador
     | CategoriaTarjetaGrafica
@@ -76,32 +69,23 @@ export type ProductSpecs =
     | CategoriaAlmacenamiento
     | CategoriaRefrigeracion;
 
-// Definición completa del tipo de producto
+// Tipo de producto ajustado a tu API real
 export type ProductType = {
     id: number;
-    attributes: {
-        productName: string;
+    productName: string;
+    slug: string;
+    description: string;
+    active: boolean;
+    isFeature: boolean;
+    price: number;
+    images: {
+        id: number;
+        url: string;
+    }[];
+    categoria: ProductSpecs[];
+    category?: {
+        id: number;
+        name: string;
         slug: string;
-        description: string;
-        active: boolean;
-        isFeature: boolean;
-        price: number;
-        images: {
-            data: {
-                id: number;
-                attributes: {
-                    url: string;
-                };
-            }[];
-        };
-        category: {
-            data: {
-                attributes: {
-                    slug: string;
-                    categoryName: string;
-                };
-            };
-        };
-        specs: ProductSpecs[];  // Dynamic Zone definida como unión de todos los tipos posibles
     };
 };
