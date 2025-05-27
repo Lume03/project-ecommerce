@@ -4,6 +4,9 @@ import { useParams } from "next/navigation";
 import { ResponseType } from "@/types/response";
 import {Separator} from "@/components/ui/separator";
 import FiltersControlsCategory from "@/app/(routes)/category/[categorySlug]/components/filters-controls-category";
+import SkeletonSchema from "@/components/skeletonSchema";
+import ProductCard from "@/app/(routes)/category/[categorySlug]/components/product-card";
+import {ProductType} from "@/types/product";
 
 export default function Page() {
     const params = useParams();
@@ -33,8 +36,17 @@ export default function Page() {
                 <p>No se encontró el nombre de la categoría.</p>
             )}
             <Separator/>
-            <div className="sm:flex sm:justify-between">
-                <FiltersControlsCategory/>
+
+            {/* Grid actualizado para 4 columnas */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6 mt-8">
+                {loading && (
+                    <SkeletonSchema grid={4}/>
+                )}
+                {result !== null && !loading && (
+                    result.map((product: ProductType) => (
+                        <ProductCard key={product.id} product={product}/>
+                    ))
+                )}
             </div>
         </div>
     );
