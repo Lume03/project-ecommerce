@@ -7,10 +7,14 @@ import { Card, CardContent } from "@/components/ui/card";
 import {Expand, ShoppingCart} from "lucide-react";
 import IconButton from "@/components/icon-button";
 import {useRouter} from "next/navigation";
+import {useCart} from "@/hooks/use-cart";
 
 const FeaturedProducts = () => {
     const { loading, result, error } = useGetFeaturedProducts();
     const  router = useRouter();
+    const {addItem , items  } = useCart();
+
+   // console.log(items);
 
     return (
         <div className="max-w-6xl py-4 mx-auto sm:py-16 sm:px-24">
@@ -59,12 +63,12 @@ const FeaturedProducts = () => {
                                                 {/* Botones abajo */}
                                                 <div className="flex justify-center gap-x-6">
                                                     <IconButton
-                                                        onClick={() => router.push(`product/${id}`)}
+                                                        onClick={() => router.push(`/product/${product.slug}`)}
                                                         icon={<Expand size={14} />}
                                                         className="text-gray-600"
                                                     />
                                                     <IconButton
-                                                        onClick={() => router.push(`product/${id}`)}
+                                                        onClick={() => addItem (product)}
                                                         icon={<ShoppingCart size={14} />}
                                                         className="text-gray-600"
                                                     />

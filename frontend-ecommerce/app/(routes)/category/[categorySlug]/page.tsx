@@ -3,7 +3,6 @@ import { useGetCategoryProduct } from "@/api/getCategoryProduct";
 import { useParams } from "next/navigation";
 import { ResponseType } from "@/types/response";
 import {Separator} from "@/components/ui/separator";
-import FiltersControlsCategory from "@/app/(routes)/category/[categorySlug]/components/filters-controls-category";
 import SkeletonSchema from "@/components/skeletonSchema";
 import ProductCard from "@/app/(routes)/category/[categorySlug]/components/product-card";
 import {ProductType} from "@/types/product";
